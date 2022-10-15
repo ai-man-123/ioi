@@ -111,17 +111,6 @@ _*${ucapanWaktu} ${pushname !== undefined ? pushname : 'Kak'} 👋*_
 │々 ${prefix}jiisho
 └─────────────❏
 
-⌈ 𝗥𝗮𝗻𝗱𝗼𝗺 𝗖𝗲𝗰𝗮𝗻 ⌋
-┌─────────────❏
-│々 ${prefix}cecanvietnam
-│々 ${prefix}cecanmalaysia
-│々 ${prefix}cecankorea
-│々 ${prefix}cecanindonesia
-│々 ${prefix}cecanjapan
-│々 ${prefix}cecanthailand
-│々 ${prefix}cecanchina
-└─────────────❏
-
  ⌈ 𝗚𝗮𝗺𝗲 𝗠𝗲𝗻𝘂 ⌋
 ┌─────────────❏
 │々 ${prefix}tictactoe
