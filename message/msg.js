@@ -236,7 +236,7 @@ module.exports = async(conn, msg, m, setting, store, welcome) => {
 		    { urlButton: { displayText: `Youtube`, url : `${setting.youtubeOwner}` } },
 		    { urlButton: { displayText: `Website`, url : `${setting.web}` } },
 			{ callButton: { displayText: `Contact Me`, phoneNumber: `${setting.ownerNumber}` } },
-			{ quickReplyButton: { displayText: `🧑 Owner`, id: `${prefix}owner` } },
+			{ quickReplyButton: { displayText: `🧑 Owner aiman`, id: `${prefix}owner` } },
 			{ quickReplyButton: { displayText: `💰 Donasi`, id: `${prefix}donate` } }
 		]
 		const buttonsMenu = [
@@ -395,8 +395,8 @@ module.exports = async(conn, msg, m, setting, store, welcome) => {
 var teks = `──「 𝔻𝕠𝕟𝕒𝕤𝕚 𝔹𝕠𝕥 」──
 
 Hi ${pushname} 👋🏻
-𝗗𝗮𝗻𝗮 : 𝙎𝙘𝙖𝙣 𝙌𝙧𝙞𝙨 𝙙𝙞 𝘼𝙩𝙖𝙨
-𝗣𝘂𝗹𝘀𝗮 : +62895638102488
+𝗗𝗮𝗻𝗮 : 0102810046
+𝗣𝘂𝗹𝘀𝗮 : 0102810046
 
 𝙏𝙚𝙧𝙞𝙢𝙖𝙠𝙖𝙨𝙞𝙝 𝘽𝙪𝙖𝙩 𝙆𝙖𝙢𝙪 𝙔𝙖𝙣𝙜 𝙎𝙪𝙙𝙖𝙝 𝙈𝙖𝙪 𝘿𝙤𝙣𝙖𝙨𝙞 𝙐𝙣𝙩𝙪𝙠 𝙋𝙚𝙧𝙠𝙚𝙢𝙗𝙖𝙣𝙜𝙖𝙣 𝘽𝙤𝙩 𝙄𝙣𝙞
 𝙏𝙝𝙖𝙣𝙠𝙨 𝙎𝙪𝙨𝙖𝙝 𝙈𝙖𝙪 𝘿𝙤𝙣𝙖𝙨𝙞`
@@ -423,7 +423,7 @@ Thanks To
 - Christian ID
 - Tsuyuzakiメ
 - Penyedia Rest Api
-- Istri Anime`
+- Aiman`
 
 conn.sendMessage(from, { caption: caption, image: pp_bot }, {quoted: fdoc})
 break
